@@ -176,3 +176,6 @@ dist
 
 # Turborepo
 .turbo
+
+# SST
+.sst
