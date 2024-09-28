@@ -4,6 +4,10 @@
 		"packages/*",
 		"apps/*"
 	],
+	"scripts": {
+		"dev": "turbo dev",
+		"build": "turbo build"
+	},
 	"type": "module",
 	"packageManager": "bun@1.1.29",
 	"devDependencies": {
