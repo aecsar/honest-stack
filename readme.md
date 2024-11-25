@@ -1,7 +1,7 @@
 # The HONEST stack
 
-- HOno
+- HOno (backend API)
 - Next.js
 - Edge (Cloudflare)
-- SST
+- SST (infra as code)
 - TypeScript
